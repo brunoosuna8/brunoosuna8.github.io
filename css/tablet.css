@@ -1,0 +1,13 @@
+.black .pruduct-cards--container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    background-color: red;
+    
+}
+
+
+.plans-container--slider{
+    justify-content: center;
+}
